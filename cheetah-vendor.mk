@@ -95,8 +95,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt-v.U.14.playstore \
-    DevicePersonalizationPrebuiltPixel2022-v.U.14.playstore \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
